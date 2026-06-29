@@ -131,7 +131,7 @@ Week 01 → Success Mindset
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Week00-Post](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | — |
-| 01 | Success Mindset | ✅ Completed | 🔄 In Progress | — | — |
+| 01 | Success Mindset | 🔄 In Progress | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
