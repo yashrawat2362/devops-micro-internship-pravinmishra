@@ -58,11 +58,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent small actions beat occasional big efforts every single time.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried learning Python by studying 4 hours every day. After a few days, I got exhausted and quit completely. A few months later, I tried again but did only 1 hour per day. This time I stayed consistent without feeling overwhelmed. In a few months, I completed the entire programming language smoothly.
 
 ---
 
@@ -70,11 +70,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Sleep is non-negotiable for good decisions. No amount of motivation can replace it.
 
 ### Evidence from my life
 
-Add your answer here...
+I once believed I could hustle on 4–5 hours of sleep with coffee and willpower. I tracked my mood and work quality for a month. On sleep-deprived days, I made silly mistakes, ate junk, and procrastinated more. Then I forced myself to sleep 7–8 hours for two weeks. My output doubled, and I didn't even feel like I was trying hard. Tired brains make worse choices—always.
 
 ---
 
@@ -82,11 +82,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+What you give to the world - help, kindness, or negativity -always finds its way back to you, not as magic but as a natural result of your actions.
 
 ### Evidence from my life
 
-Add your answer here...
+I once ignored a junior colleague who asked for help because I was "too busy." A few months later, I needed support on an urgent task, and no one stepped up. Then I changed my approach. I started helping others with small things without expecting anything. Later, when I got stuck on a big project, three people I had helped earlier came to assist me without me even asking. I didn't believe in karma before, but after seeing this pattern repeat, I now know: the energy you put out is the energy you eventually receive.
 
 ---
 
