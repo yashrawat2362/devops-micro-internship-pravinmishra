@@ -33,9 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-I believe that a normal 9-to-5 job, even a well-paid one, is just a comfortable cage.
+**I believe that a normal 9-to-5 job, even a well-paid one, is just a comfortable cage.**
 Most people think a safe job with a good salary is the smartest goal in life. But I see it differently. I think giving your best hours every day just for money and a job title is a slow way to lose yourself.
-I believe the most valuable thing in life is control over your own time, not a big bank balance. I would rather live cheaply and build something of my own—even if I fail—than sit in meetings at 35 and wonder where my excitement for life went.
+I believe the most valuable thing in life is control over your own time, not a big bank balance. I would rather live cheaply and build something of my own-even if I fail-than sit in meetings at 35 and wonder where my excitement for life went.
 To me, staying in a safe job just because it pays well feels like handing your freedom to a script someone else wrote. Many friends and family call this childish. I call it the truth.
 
 ---
