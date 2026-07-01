@@ -328,7 +328,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -346,7 +346,22 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday – Thursday
+• 60–90 min skill learning (DevOps / Cloud / Internship tasks)
+• 30 min project or GitHub progress
+
+Friday
+• Review weekly learning
+• Update notes and pending tasks
+• Complete assignments and documentation
+
+Saturday
+• Attend DMI session
+
+Sunday
+• Weekly review
+• Plan next week
+• Organize files, schedule, and goals
 
 ---
 
@@ -354,11 +369,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday – Friday → 10:00 AM – 11:30 PM or 11:30 PM - 1:30 AM
+Saturday → DMI Session
+Sunday → 11:00 AM – 1:00 PM (Weekly Review + Catch-up)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Sessions held at Office Timings but i try to take sessions
 
 ---
 
@@ -372,7 +389,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+• Phone stays away during focus sessions
+• No Instagram/Reels during learning blocks
+• Only one browser tab while studying
+• Keep desk and VS Code workspace organized
+• Use timer-based study sessions
+• Finish current task before opening another one
 
 ---
 
