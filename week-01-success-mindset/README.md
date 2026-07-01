@@ -138,13 +138,71 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+# The Version 2.0 of Yash Rawat: From Learning in Public to Building in Public
+
+*Published: July 2031*
+
+Five years earlier, Yash Rawat was documenting internship assignments, exploring DevOps concepts, and trying to understand where he fit in the technology world.
+
+Today, his work tells that story better than words.
+
+Yash built his career around one principle: consistency over intensity.
+
+His early portfolio showed small but practical projects — networking exercises, cloud experiments, automation workflows, and technical write-ups. Instead of waiting to become an expert before publishing, he started sharing progress publicly.
+
+That decision became one of the turning points.
+
+Over the years, he built and shipped multiple projects focused on DevOps, cloud automation, and AI-enabled workflows. His GitHub evolved from practice repositories into production-style implementations that demonstrated deployment pipelines, infrastructure automation, containerization, and real-world problem solving.
+
+His portfolio became more than a collection of certificates — it became proof of execution.
+
+Professionally, Yash earned a role where he worked across development and operations teams to improve deployment processes and system reliability. He contributed to internal automation initiatives that reduced repetitive manual effort and improved operational efficiency.
+
+Beyond technical work, he published blogs documenting lessons, mistakes, and experiments. His writing attracted students and early-career professionals who wanted practical explanations instead of theory-heavy content.
+
+His certifications supported his work rather than replacing it.
+
+Cloud certifications, DevOps learning paths, and technical credentials strengthened credibility, but the strongest signal remained the projects he completed and shipped.
+
+Yash also stepped into leadership.
+
+He led small technical initiatives, mentored newcomers entering the field, and created spaces where learners could ask questions without feeling behind.
+
+Community contribution became a visible part of his journey.
+
+He contributed to open-source projects, participated in technical communities, and regularly shared resources that helped beginners start faster than he did.
+
+His LinkedIn, GitHub, blogs, and portfolio eventually connected into one clear story:
+
+Not someone who waited to become ready.
+
+Someone who started before feeling ready.
+
+When people asked what changed between Version 1.0 and Version 2.0, the answer was simple:
+
+Version 1.0 consumed information.
+
+Version 2.0 built things.
+
+—
+
+### Proof of Growth
+
+• Built and shipped practical DevOps and cloud projects
+• Published technical blogs and learning reflections
+• Maintained an active GitHub portfolio
+• Earned industry certifications
+• Contributed to community learning initiatives
+• Led small technical collaborations and mentoring efforts
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://medium.com/@yashrawat2362/the-version-2-0-of-yash-rawat-from-learning-in-public-to-building-in-public-564955656af0`
 
 ---
 
@@ -176,7 +234,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
