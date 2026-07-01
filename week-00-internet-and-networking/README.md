@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+Users from anywhere in the world can access the **EpicReads** website because of how the internet sends data using networking technologies. When a user types the website URL, their device first finds the server’s **IP address**, which is a unique numerical identity of the server hosted in Finland. The data is then sent using **packet switching**, where information is broken into small packets and travels through different network paths before reaching the server.
+Communication happens through the **TCP/IP** protocol suite — TCP ensures all packets arrive correctly and in order, while IP handles addressing and routing. Finally, the website content is delivered using **HTTP or HTTPS**. HTTPS is more secure because it encrypts the data, protecting user information like login details or payments. This whole process allows smooth global access to the website.
 
 ---
 
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+Next.js
+Tail Wind css
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js
+Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MySQL
+MongoDB
 
 ---
 
@@ -142,7 +143,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+**DNS (Domain Name System)** is like the internet’s phonebook. It converts a human-friendly domain name like **epicreads.com** into a machine-friendly **IP address (52.172.142.222)** so that browsers can find and open the correct server hosting the website.
+To connect the domain to this IP, an **A record (Address Record)** should be used. This is because an A record directly maps a domain name to an **IPv4 address**, allowing users to access the EpicReads website using the domain instead of typing the numeric IP.
 
 ---
 
@@ -215,10 +217,10 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here: 
 
 ```text
-Add your URL here...
+[Post-Link](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ)
 ```
 
 ---
@@ -227,7 +229,30 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Starting My DevOps Journey – Learning & Building Step by Step
+I have recently started learning DevOps, and here are some key tasks I have completed so far:
+
+🤖 ChatGPT
+Used ChatGPT as a learning assistant to understand DevOps and networking concepts in a simple and practical way.
+
+🌐 Internet & Networking
+Learned how the internet works using concepts like packet switching, IP address, TCP/IP, and HTTP/HTTPS, and how users globally can access a hosted website.
+
+🏗️ App Architecture
+Understood the difference between Two-Tier (Frontend + Database) and Three-Tier (Frontend + Backend + Database) architectures along with common technologies used in each layer.
+
+📡 DNS
+Learned about DNS (Domain Name System) and how an A Record connects a domain name to a server’s IPv4 address.
+
+💻 VS Code Setup
+Installed and configured VS Code as a development environment for learning and practicing DevOps tools and workflows.
+
+✨ Excited to continue this journey and build real-world skills!
+
+#DevOps #DevOpsJourney #LearningInPublic #TechLearning #NetworkingBasics #WebArchitecture #DNS #CloudComputing #SoftwareEngineering #BeginnerToPro #FutureEngineer #Upskilling #TechCareer
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist https://lnkd.in/gu2Dyepa
+
 
 ---
 
