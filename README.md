@@ -131,7 +131,7 @@ Week 01 → Success Mindset
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Week00-Post](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week00-Blog](https://medium.com/@yashrawat2362/episode-01-before-learning-docker-i-learned-how-the-internet-works-4d3c06721c98) |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | [Week01-Post](https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week01-Blog](https://medium.com/@yashrawat2362/the-version-2-0-of-yash-rawat-from-learning-in-public-to-building-in-public-564955656af0?sharedUserId=yashrawat2362) |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | [Week01-Post](https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week01-Blog]([https://medium.com/@yashrawat2362/the-version-2-0-of-yash-rawat-from-learning-in-public-to-building-in-public-564955656af0?sharedUserId=yashrawat2362](https://medium.com/@yashrawat2362/episode-02-success-isnt-built-in-one-day-it-s-built-every-day-6b1522a7b395)) |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
