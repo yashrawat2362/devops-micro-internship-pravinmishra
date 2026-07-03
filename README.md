@@ -1,7 +1,7 @@
 # DevOps Micro Internship with Agentic AI — My Journey
 
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
-![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
+![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Yash_Rawat-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 ![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F15-green?style=for-the-badge)
 
