@@ -427,8 +427,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ**  
+- Blog / Medium : **https://medium.com/@yashrawat2362/the-version-2-0-of-yash-rawat-from-learning-in-public-to-building-in-public-564955656af0?sharedUserId=yashrawat2362**  
 
 ---
 
