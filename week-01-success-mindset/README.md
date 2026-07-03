@@ -188,12 +188,12 @@ Version 2.0 built things.
 
 ### Proof of Growth
 
-• Built and shipped practical DevOps and cloud projects
-• Published technical blogs and learning reflections
-• Maintained an active GitHub portfolio
-• Earned industry certifications
-• Contributed to community learning initiatives
-• Led small technical collaborations and mentoring efforts
+* Built and shipped practical DevOps and cloud projects
+* Published technical blogs and learning reflections
+* Maintained an active GitHub portfolio
+* Earned industry certifications
+* Contributed to community learning initiatives
+* Led small technical collaborations and mentoring efforts
 
 P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
@@ -299,10 +299,15 @@ List topics only. No need to share numbers.
 ## My Metrics
 
 * Learning hours per week
+* New skills learned / practiced
+* Projects completed and documented
+* GitHub contributions / portfolio updates
 * Daily time usage
 * Deep work / focused work sessions
 * Sleep hours
+* Energy level and physical activity
 * Monthly spending and savings tracking
+* Progress toward career and internship goals
 
 ---
 
@@ -347,21 +352,21 @@ Example:
 #### My Weekly Routine
 
 Monday – Thursday
-• 60–90 min skill learning (DevOps / Cloud / Internship tasks)
-• 30 min project or GitHub progress
+* 60–90 min skill learning (DevOps / Cloud / Internship tasks)
+* 30 min project or GitHub progress
 
 Friday
-• Review weekly learning
-• Update notes and pending tasks
-• Complete assignments and documentation
+* Review weekly learning
+* Update notes and pending tasks
+* Complete assignments and documentation
 
 Saturday
-• Attend DMI session
+* Attend DMI session
 
 Sunday
-• Weekly review
-• Plan next week
-• Organize files, schedule, and goals
+* Weekly review
+* Plan next week
+* Organize files, schedule, and goals
 
 ---
 
@@ -369,9 +374,9 @@ Sunday
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Monday – Friday → 10:00 AM – 11:30 PM or 11:30 PM - 1:30 AM
-Saturday → DMI Session
-Sunday → 11:00 AM – 1:00 PM (Weekly Review + Catch-up)
+* Monday – Friday → 10:00 AM – 11:30 PM or 11:30 PM - 1:30 AM
+* Saturday → DMI Session
+* Sunday → 11:00 AM – 1:00 PM (Weekly Review + Catch-up)
 
 #### How Many Sessions Per Week?
 
@@ -389,12 +394,12 @@ Examples:
 
 #### My Distraction Rules
 
-• Phone stays away during focus sessions
-• No Instagram/Reels during learning blocks
-• Only one browser tab while studying
-• Keep desk and VS Code workspace organized
-• Use timer-based study sessions
-• Finish current task before opening another one
+* Phone stays away during focus sessions
+* No Instagram/Reels during learning blocks
+* Only one browser tab while studying
+* Keep desk and VS Code workspace organized
+* Use timer-based study sessions
+* Finish current task before opening another one
 
 ---
 
@@ -402,21 +407,21 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I spend a lot of time thinking about starting instead of actually starting. Once I begin working, progress usually becomes easier than expected.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Overthinking and delaying work until I feel fully prepared, which reduces momentum.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday at 10:00 PM, I will start a 60-minute focused learning session before using social media or watching videos.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
