@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![medium-blog](./screenshots/ss8.1.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![linkedin-post](./screenshots/ss8.2.png)
 
 ---
 
@@ -101,14 +101,63 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+🚀 Week 2 Changed How I See DevOps
+
+Before this week, I thought DevOps was mainly about learning tools.
+
+Terraform.
+AWS.
+GitHub Actions.
+Docker.
+
+I believed the goal was to memorize commands and write configuration files.
+Week 2 completely changed that mindset.
+
+I realized modern DevOps isn't about writing more code—it's about building better systems.
+
+Instead of manually creating Terraform files, repeating the same YAML configurations, or solving the same deployment problems over and over, I learned how Agentic AI can automate repetitive work while keeping the engineer in control.
+
+One idea really stood out to me:
+
+**AI shouldn't replace engineers. It should eliminate repetitive work so engineers can focus on better decisions.**
+
+During Week 2, I explored concepts that felt like building an AI-powered engineering team:
+
+🧠 Teaching AI to understand a project with CLAUDE.md
+⚡ Creating reusable DevOps skills with slash commands
+👥 Building specialized AI agents for security, cost optimization, Terraform, and drift detection
+🔌 Connecting AI to real tools using MCP
+🛡️ Protecting infrastructure with hooks and permissions
+💾 Enabling memory so AI remembers project decisions across sessions
+
+The most exciting part wasn't that AI generated code.
+
+It was seeing how all these pieces work together to create a repeatable, production-ready workflow.
+
+This week changed the question I ask myself.
+
+Instead of...
+
+"How do I write this configuration?"
+
+I now think...
+
+"How can I build a system that solves this problem every time?"
+
+That's a mindset I'll carry into every project I build from now on.
+
+Pravin Mishra, Anjana Muthunayake (Lead Co-Mentor), Nkechi Anna Ahanonye, Tanisha Borana, Anuradha Iyer (Group Co-Mentors)
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/gzJrEt7f ).
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
@@ -124,15 +173,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✓] Blog written with required structure
+* [✓] Blog includes at least 2–3 Week 2 topics
+* [✓] Blog is publicly accessible
+* [✓] LinkedIn post created
+* [✓] Required P.S. line included
+* [✓] LinkedIn post content copied in submission field
+* [✓] Blog link added
+* [✓] LinkedIn post link added
+* [✓] Screenshots added to GitHub repo
 
 ---
 
