@@ -17,7 +17,7 @@
 | **Name** | Yash Rawat |
 | **LinkedIn** | [yash-rawat-linkedin](https://www.linkedin.com/in/yashrawat2362/) |
 | **Location** | Faridabad, India |
-| **Background** | Cloud, Computer Science Engineering  |
+| **Background** | Computer Science Engineering  |
 | **Goal** | DevOps Engineer |
 
 ---
@@ -49,7 +49,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
+> 🥇 Cohort 3 Rank: **#40** <!-- Update this each week -->
 
 ---
 
@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -133,8 +133,8 @@ Week 01 → Success Mindset
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Week00-Post](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week00-Blog](https://medium.com/@yashrawat2362/episode-01-before-learning-docker-i-learned-how-the-internet-works-4d3c06721c98) |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | [Week01-Post](https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week01-Blog](https://medium.com/@yashrawat2362/episode-02-success-isnt-built-in-one-day-it-s-built-every-day-6b1522a7b395) |
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Week02-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Blog-Post](https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c) |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Week02-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week02-Blog](https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c) |
+| 03 | Linux for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
