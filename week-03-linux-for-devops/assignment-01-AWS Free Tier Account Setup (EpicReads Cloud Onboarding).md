@@ -32,8 +32,6 @@ AWS Free Tier allows new users to learn and experiment with AWS without paying u
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Some AWS services include free monthly usage limits even under the new Free Tier program. Examples include:
-
 - **Amazon S3**: Up to 5 GB of Standard Storage with limited requests each month.
 - **Amazon DynamoDB**: Up to 25 GB of storage and limited read/write capacity.
 - **AWS Lambda**: 1 million free requests and 400,000 GB-seconds of compute time per month.
