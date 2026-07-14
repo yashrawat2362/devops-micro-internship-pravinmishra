@@ -72,7 +72,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
+- [x] Task 1 answers written in own words
 - [x] AWS Free Tier account created successfully
 - [x] Signed in to AWS Management Console
 - [x] Screenshot of AWS Account page captured (full name visible, no sensitive data)
