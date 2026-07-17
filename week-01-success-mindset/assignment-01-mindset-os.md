@@ -421,7 +421,7 @@ Every weekday at 10:00 PM, I will start a 60-minute focused learning session bef
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-activity-7478667960597798912-ZfDz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
