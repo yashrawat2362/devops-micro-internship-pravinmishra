@@ -98,7 +98,7 @@ Paste your forked repository URL here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-05-mcp.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 =======
-`Add your URL here`
+`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-05-mcp.md
 
 ---
@@ -107,21 +107,21 @@ Paste your forked repository URL here:
 
 Confirm below:
 
-- [✓] `settings.local.json` is added to `.gitignore`
-- [✓] GitHub token is NOT exposed in repository or screenshots
+- [x] `settings.local.json` is added to `.gitignore`
+- [x] GitHub token is NOT exposed in repository or screenshots
 
 ---
 
 # Completion Checklist
 
-- [✓] GitHub PAT created with correct scopes (`repo`, `read:user`)
-- [✓] `.mcp.json` created at project root
-- [✓] `.claude/settings.local.json` contains token (hidden in screenshot)
-- [✓] `.claude/settings.local.json` is NOT committed
-- [✓] `/mcp` shows GitHub connection as active
-- [✓] Live GitHub query returns real repository data
-- [✓] All required screenshots added
-- [✓] GitHub repository URL included
+- [x] GitHub PAT created with correct scopes (`repo`, `read:user`)
+- [x] `.mcp.json` created at project root
+- [x] `.claude/settings.local.json` contains token (hidden in screenshot)
+- [x] `.claude/settings.local.json` is NOT committed
+- [x] `/mcp` shows GitHub connection as active
+- [x] Live GitHub query returns real repository data
+- [x] All required screenshots added
+- [x] GitHub repository URL included
 
 ---
 
