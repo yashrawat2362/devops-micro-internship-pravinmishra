@@ -202,7 +202,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 Paste your link here:
 
-`__________________________`
+`https://medium.com/@yashrawat2362/the-version-2-0-of-yash-rawat-from-learning-in-public-to-building-in-public-564955656af0?sharedUserId=yashrawat2362`
 
 ---
 
