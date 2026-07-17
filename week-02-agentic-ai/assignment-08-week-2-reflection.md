@@ -57,7 +57,7 @@ Blog Link:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c`
 =======
-`Add your URL here`
+`https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
 
 ---
@@ -164,7 +164,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 =======
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
 
 ---
@@ -181,15 +181,15 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 # Completion Checklist
 
-* [✓] Blog written with required structure
-* [✓] Blog includes at least 2–3 Week 2 topics
-* [✓] Blog is publicly accessible
-* [✓] LinkedIn post created
-* [✓] Required P.S. line included
-* [✓] LinkedIn post content copied in submission field
-* [✓] Blog link added
-* [✓] LinkedIn post link added
-* [✓] Screenshots added to GitHub repo
+* [x] Blog written with required structure
+* [x] Blog includes at least 2–3 Week 2 topics
+* [x] Blog is publicly accessible
+* [x] LinkedIn post created
+* [x] Required P.S. line included
+* [x] LinkedIn post content copied in submission field
+* [x] Blog link added
+* [x] LinkedIn post link added
+* [x] Screenshots added to GitHub repo
 
 ---
 
