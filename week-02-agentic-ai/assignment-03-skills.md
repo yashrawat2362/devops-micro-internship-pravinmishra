@@ -94,7 +94,7 @@ Paste your forked repository URL here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-03-skills.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 =======
-`Add your URL here`
+`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-03-skills.md
 
 ## LinkedIn post URL
@@ -104,22 +104,22 @@ Paste your Linkedin Post URL here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-03-skills.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-share-7480998588248969216-ayn3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 =======
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-share-7480998588248969216-ayn3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-03-skills.md
 ---
 
 # Completion Checklist
 
-- [✔] `.claude/skills/` folder created with all 4 skill folders
-- [✔] All skill files placed correctly
-- [✔] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
-- [✔] `/scaffold-terraform` executed successfully
-- [✔] Terraform files generated inside `terraform/` folder
-- [✔] `terraform init` executed successfully
-- [✔] `/tf-plan` executed and output analyzed by Claude
-- [✔] All required screenshots added
-- [✔] GitHub repository URL included
-- [✔] LinkedIn post URL included
+- [x] `.claude/skills/` folder created with all 4 skill folders
+- [x] All skill files placed correctly
+- [x] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
+- [x] `/scaffold-terraform` executed successfully
+- [x] Terraform files generated inside `terraform/` folder
+- [x] `terraform init` executed successfully
+- [x] `/tf-plan` executed and output analyzed by Claude
+- [x] All required screenshots added
+- [x] GitHub repository URL included
+- [x] LinkedIn post URL included
 
 ---
 
