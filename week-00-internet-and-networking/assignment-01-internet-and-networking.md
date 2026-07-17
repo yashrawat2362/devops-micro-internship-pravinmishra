@@ -25,8 +25,9 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
+![Task 1 Screenshot](screenshots/ss3.0.1.png)
+![Task 1 Screenshot](screenshots/ss3.0.1.png)
+![Task 1 Screenshot](screenshots/ss3.0.1.png)
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
@@ -34,7 +35,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+By this task i learnt how to use chatgpt for what i am expecting
+By this task I am able to get desired output from the ChatGPT.
 
 ---
 
@@ -92,7 +94,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/ss3.0.4.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -144,6 +146,7 @@ In **50–100 words**, explain in your own words:
 ## Answer
 
 **DNS (Domain Name System)** is like the internet’s phonebook. It converts a human-friendly domain name like **epicreads.com** into a machine-friendly **IP address (52.172.142.222)** so that browsers can find and open the correct server hosting the website.
+
 To connect the domain to this IP, an **A record (Address Record)** should be used. This is because an A record directly maps a domain name to an **IPv4 address**, allowing users to access the EpicReads website using the domain instead of typing the numeric IP.
 
 ---
@@ -180,7 +183,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/ss3.0.5.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -220,7 +223,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here: 
 
 ```text
-[Post-Link](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ)
+https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ
 ```
 
 ---
