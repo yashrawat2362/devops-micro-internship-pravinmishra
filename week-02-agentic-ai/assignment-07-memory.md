@@ -94,7 +94,7 @@ Paste your Linkedin post link here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-07-memory.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7481454941941899265--863/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 =======
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7481454941941899265--863/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-07-memory.md
 
 ---
@@ -106,21 +106,21 @@ Paste your forked repository URL here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-07-memory.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 =======
-`Add your URL here`
+`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-07-memory.md
 
 ---
 
 # Completion Checklist
 
-- [✓] Memory file path identified (Screenshot 1)
-- [✓] Memory successfully saved via prompt (Screenshot 2)
-- [✓] `MEMORY.md` shows stored content (Screenshot 3)
-- [✓] Fresh session opened after full restart (Screenshot 4)
-- [✓] Claude recalled hero colors correctly (Screenshot 5)
-- [✓] Claude refused JavaScript request based on memory (Screenshot 6)
-- [✓] All screenshots added and committed to GitHub repo
-- [✓] Linkedin post created.
+- [x] Memory file path identified (Screenshot 1)
+- [x] Memory successfully saved via prompt (Screenshot 2)
+- [x] `MEMORY.md` shows stored content (Screenshot 3)
+- [x] Fresh session opened after full restart (Screenshot 4)
+- [x] Claude recalled hero colors correctly (Screenshot 5)
+- [x] Claude refused JavaScript request based on memory (Screenshot 6)
+- [x] All screenshots added and committed to GitHub repo
+- [x] Linkedin post created.
 
 ---
 
