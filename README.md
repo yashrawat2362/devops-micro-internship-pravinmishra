@@ -80,8 +80,8 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -152,7 +152,7 @@ Week 02 → Agentic AI with Claude Code
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Week00-Post](https://www.linkedin.com/posts/yashrawat2362_devops-devopsjourney-learninginpublic-activity-7442653732573704192-1YVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week00-Blog](https://medium.com/@yashrawat2362/episode-01-before-learning-docker-i-learned-how-the-internet-works-4d3c06721c98) |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | [Week01-Post](https://www.linkedin.com/posts/yashrawat2362_dmi-devops-learninginpublic-share-7478667959301791744-h5zh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week01-Blog](https://medium.com/@yashrawat2362/episode-02-success-isnt-built-in-one-day-it-s-built-every-day-6b1522a7b395) |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Week02-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week02-Blog](https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c) |
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Week03-Post]() | [Week03-Blog](https://medium.com/@yashrawat2362/episode-04-how-linux-bash-ai-changed-the-way-i-think-about-devops-635476e42346) |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Week03-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-linux-activity-7483936061170155520-Yqkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week03-Blog](https://medium.com/@yashrawat2362/episode-04-how-linux-bash-ai-changed-the-way-i-think-about-devops-635476e42346) |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
