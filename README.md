@@ -4,9 +4,9 @@
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Yash_Rawat-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 <<<<<<< HEAD
-![Weeks](https://img.shields.io/badge/Weeks_Completed-3%2F15-green?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-4%2F15-green?style=for-the-badge)
 =======
-![Weeks](https://img.shields.io/badge/Weeks_Completed-3%2F14-green?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-4%2F14-green?style=for-the-badge)
 >>>>>>> upstream/main
 
 > 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
