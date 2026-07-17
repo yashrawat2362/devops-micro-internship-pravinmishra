@@ -379,13 +379,13 @@ Unused cloud resources can still generate charges. Stopping or deleting them hel
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7483581222225371136-fXRG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![linkedin-post](./screenshots/ss3.3.23.png)
 
 ---
 
