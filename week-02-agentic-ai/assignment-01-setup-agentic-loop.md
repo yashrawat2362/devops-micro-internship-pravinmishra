@@ -80,19 +80,19 @@ Paste your forked repository URL here:
 <<<<<<< HEAD:week-02-agentic-ai/solution-assignment-01-setup-agentic-loop.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 =======
-`Add your URL here`
+`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
 >>>>>>> upstream/main:week-02-agentic-ai/assignment-01-setup-agentic-loop.md
 
 ---
 
 # Completion Checklist
 
-- [✅] Claude Code CLI installed successfully
-- [✅] Claude Code authenticated successfully
-- [✅] Repository forked successfully
-- [✅] Repository cloned and opened in VS Code
-- [✅] All required screenshots added
-- [✅] GitHub repository URL provided
+- [x] Claude Code CLI installed successfully
+- [x] Claude Code authenticated successfully
+- [x] Repository forked successfully
+- [x] Repository cloned and opened in VS Code
+- [x] All required screenshots added
+- [x] GitHub repository URL provided
 
 ---
 
