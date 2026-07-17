@@ -478,7 +478,7 @@ The incident followed the workflow: Gather (Bash collected evidence) → Analyze
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-linux-bash-activity-7483928519337590784-O1V7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
