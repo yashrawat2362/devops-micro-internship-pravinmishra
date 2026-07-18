@@ -263,19 +263,19 @@ P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin 
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic concepts of the Internet, such as DNS, IP addresses, HTTP/HTTPS, and how a request travels from a browser to a web server. The diagrams and real-world examples made these topics easier to follow.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+At first, it was a little confusing to understand how all the networking components work together. Connecting concepts like DNS, TCP/IP, packets, and client-server communication took some time, but it became much clearer after practicing and revising.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to spend more time practicing the concepts instead of just reading them. I'll take notes, ask more questions, and focus on building a stronger foundation before moving on to advanced DevOps topics.
 
 ---
 
