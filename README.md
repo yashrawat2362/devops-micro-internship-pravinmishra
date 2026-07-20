@@ -43,13 +43,13 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Award | Post |
 |------|-------|------|
-| <!-- e.g. Week 03 --> | <!-- 🏆 Champion of the Week --> | <!-- [LinkedIn Post](#) --> |
+| Week 02 | 🏆 Champion of the Week | [LinkedIn Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-devops-activity-7485031226110603264-xKCz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) |
 
 ### Leaderboard
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#40** <!-- Update this each week -->
+> 🥇 Cohort 3 Rank: **#1** <!-- Update this each week -->
 
 ---
 
