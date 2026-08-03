@@ -133,7 +133,7 @@ Week 04 → Git & GitHub
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Week02-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week02-Blog](https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c) |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Week03-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-linux-activity-7483936061170155520-Yqkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week03-Blog](https://medium.com/@yashrawat2362/episode-04-how-linux-bash-ai-changed-the-way-i-think-about-devops-635476e42346) |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Week04-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-git-share-7486690308454481920-Htzv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week04-Blog](https://medium.com/@yashrawat2362/episode-5-git-didnt-just-teach-me-commands-it-changed-how-i-think-about-building-software-a3d3b8a0099d) |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
