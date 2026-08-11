@@ -210,7 +210,7 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-jira-ugcPost-7492998209334636544-0ghZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
 
 ---
 
