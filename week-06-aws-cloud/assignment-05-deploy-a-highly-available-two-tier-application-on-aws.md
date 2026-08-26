@@ -8,6 +8,8 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 In this assignment, you will design and deploy a highly available two-tier web application on AWS: highly available networking across two Availability Zones, an Application Load Balancer, an Auto Scaling Group for the web tier, and a private Multi-AZ RDS database. You must prove high availability with real failure tests.
 
+![architecture-image](./screenshots/architecture.png)
+
 ---
 
 # Task 1 — Create HA Networking (VPC + 4 Subnets + IGW + NAT + Route Tables)
