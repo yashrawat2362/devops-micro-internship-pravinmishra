@@ -226,21 +226,23 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 ### Notes
 
-Summarize the VPC and subnets across the two Availability Zones.
+# Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+The application is deployed in a custom VPC with CIDR 10.0.0.0/16, spanning two Availability Zones. It includes two public subnets (10.0.1.0/24 and 10.0.2.0/24) for the ALB and web-tier EC2 instances, and two private subnets (10.0.11.0/24 and 10.0.12.0/24) for the database tier. An Internet Gateway provides internet connectivity for the public subnets, while a NAT Gateway provides outbound connectivity for resources in the private subnets.
 
-Summarize the ALB and Auto Scaling Group setup.
+# Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+An internet-facing Application Load Balancer is deployed across both public subnets and distributes HTTP traffic to the web-tier EC2 instances through a target group. An Auto Scaling Group manages the web instances with a desired and minimum capacity of 2 and a maximum capacity of 4. The instances are distributed across two Availability Zones, providing redundancy and automatic replacement of unhealthy or terminated instances.
 
-Summarize the private Multi-AZ RDS setup.
+# Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+For this Free Tier implementation, Amazon RDS MySQL is deployed using the private DB subnet group across two private subnets, with public access disabled and access restricted through the RDS security group. Due to Free Tier resource constraints, the database is configured as Single-AZ rather than Multi-AZ. The application connects to RDS privately through the web-tier security group.
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+Test A – Instance Failure: One web-tier EC2 instance was terminated manually. The Auto Scaling Group detected the capacity loss and launched a replacement instance automatically. The Application Load Balancer continued serving requests through the healthy instance while the replacement was being launched, and the target group returned to a healthy state after registration.
+
+Test B – Availability Zone Impact: One web-tier instance was stopped/removed to simulate an Availability Zone impact. The remaining healthy instance in the other Availability Zone continued serving application traffic through the Application Load Balancer. The ALB DNS endpoint remained accessible during the test, demonstrating web-tier redundancy across Availability Zones.
 
 ---
 
@@ -256,13 +258,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/dE2hanTv`
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![ss-5.22](./screenshots/ss6.5.24.png)
 
 ---
 
