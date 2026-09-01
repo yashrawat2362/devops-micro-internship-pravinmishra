@@ -16,7 +16,7 @@
 |---|---|
 | **Name** | Yash Rawat |
 | **LinkedIn** | [yash-rawat-linkedin](https://www.linkedin.com/in/yashrawat2362/) |
-| **Location** | Faridabad, India |
+| **Location** | Noida, India |
 | **Background** | Computer Science Engineering  |
 | **Goal** | DevOps Engineer |
 
@@ -85,8 +85,8 @@ Week 04 → Git & GitHub
 Week 05 → DevOps Lifecycle & Agile
 [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+Week 06 → AWS Cloud
+[![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
 <!-- Week 07 → Azure Cloud -->
 <!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
@@ -135,8 +135,8 @@ Week 05 → DevOps Lifecycle & Agile
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Week04-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-git-share-7486690308454481920-Htzv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week04-Blog](https://medium.com/@yashrawat2362/episode-5-git-didnt-just-teach-me-commands-it-changed-how-i-think-about-building-software-a3d3b8a0099d) |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | [Week05-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7493030306057371648-X19Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week05-Blog](https://medium.com/@yashrawat2362/episode-6-from-jira-board-to-production-30f4ea547dae) |
 | 06 | AWS Cloud | 🔄 In Progress | ⏳ Pending | [Week06-Post]() | [Week06-Blog]() |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud | 🔄 In Progress | ⏳ Pending | [Week07-Post]() | [Week07-Blog]() |
+| 08 | Terraform | 🔄 In Progress | ⏳ Pending | [Week08-Post]() | [Week08-Blog]() |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
@@ -161,6 +161,6 @@ Week 05 → DevOps Lifecycle & Agile
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashrawat2362/)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
