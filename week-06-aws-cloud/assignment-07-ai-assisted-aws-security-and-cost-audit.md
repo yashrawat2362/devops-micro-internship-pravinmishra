@@ -284,13 +284,13 @@ Suggested tags:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/dYRpHPFz`
 
 ---
 
 #### Screenshot of Published LinkedIn Post
 
-Add your screenshot here.
+![ss7.14](./screenshots/ss6.7.14.png)
 
 ---
 
@@ -348,7 +348,7 @@ Submit only your Google Doc link.
 
 Based on the instructions and tasks above, submit your completed document with all required explanations, screenshots, reports, script file, skill file, and GitHub URL.
 
-`Add your Google Doc link here`
+`https://docs.google.com/document/d/1C5DvwvSVfiXiozDVvq2ap7Ke_kzmzrSGD7F2QuRxcok/edit?usp=sharing`
 
 ---
 
