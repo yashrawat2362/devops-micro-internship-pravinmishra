@@ -3,7 +3,7 @@
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Yash_Rawat-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Weeks](https://img.shields.io/badge/Weeks_Completed-6%2F14-green?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-7%2F14-green?style=for-the-badge)
 
 > 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
 > Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
@@ -134,10 +134,10 @@ Week 06 → AWS Cloud
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Week03-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-linux-activity-7483936061170155520-Yqkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week03-Blog](https://medium.com/@yashrawat2362/episode-04-how-linux-bash-ai-changed-the-way-i-think-about-devops-635476e42346) |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Week04-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-devops-git-share-7486690308454481920-Htzv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week04-Blog](https://medium.com/@yashrawat2362/episode-5-git-didnt-just-teach-me-commands-it-changed-how-i-think-about-building-software-a3d3b8a0099d) |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | [Week05-Post](https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7493030306057371648-X19Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ) | [Week05-Blog](https://medium.com/@yashrawat2362/episode-6-from-jira-board-to-production-30f4ea547dae) |
-| 06 | AWS Cloud | 🔄 In Progress | ⏳ Pending | [Week06-Post]() | [Week06-Blog]() |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | [Week06-Post](https://lnkd.in/p/dwFUm_3y) | [Week06-Blog](https://medium.com/@yashrawat2362/episode-07-aws-cloud-from-deploying-applications-to-designing-systems-826948b105d4) |
 | 07 | Azure Cloud | 🔄 In Progress | ⏳ Pending | [Week07-Post]() | [Week07-Blog]() |
 | 08 | Terraform | 🔄 In Progress | ⏳ Pending | [Week08-Post]() | [Week08-Blog]() |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 09 | Ansible | 🔄 In Progress | ⏳ Pending | [Week09-Post]() | [Week09-Blog]() |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
