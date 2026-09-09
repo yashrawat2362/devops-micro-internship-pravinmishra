@@ -20,13 +20,13 @@ Create a `terraform-azure-vm` project and define the resource group, virtual net
 
 #### Screenshot 1 — VS Code showing `main.tf` and the required Azure resources
 
-Add your screenshot here.
+![ss-1](./screenshots/ss8.1.1.png)
 
 ---
 
 #### Screenshot 2 — `main.tf` showing the public IP output and VM authentication configuration, with the password hidden or redacted
 
-Add your screenshot here.
+![ss-2](./screenshots/ss8.1.2.png)
 
 ---
 
@@ -40,7 +40,7 @@ Run `terraform init` and confirm the working directory initializes successfully.
 
 #### Screenshot 3 — Terminal showing successful `terraform init` output
 
-Add your screenshot here.
+![ss-3](./screenshots/ss8.1.3.png)
 
 ---
 
@@ -54,19 +54,21 @@ Review `terraform plan`, run `terraform apply`, and record the VM's public IP fr
 
 #### Screenshot 4 — Terraform plan summary showing the proposed resources
 
-Add your screenshot here.
+![ss-4.1](./screenshots/ss8.1.4.1.png)
+![ss-4.2](./screenshots/ss8.1.4.2.png)
+![ss-4.3](./screenshots/ss8.1.4.3.png)
 
 ---
 
 #### Screenshot 5 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+![ss-5](./screenshots/ss8.1.5.png)
 
 ---
 
 #### Screenshot 6 — Terraform output showing the public IP of the VM
 
-Add your screenshot here.
+![ss-6](./screenshots/ss8.1.6.png)
 
 ---
 
@@ -80,7 +82,7 @@ Use Azure CLI to confirm the VM was created and is running.
 
 #### Screenshot 7 — Azure CLI output showing the VM name and running status
 
-Add your screenshot here.
+![ss-7](./screenshots/ss8.1.7.png)
 
 ---
 
@@ -94,7 +96,7 @@ Run `terraform destroy` to clean up the Azure resources after testing.
 
 #### Screenshot 8 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+![ss-8](./screenshots/ss8.1.8.png)
 
 ---
 
@@ -102,7 +104,7 @@ Add your screenshot here.
 
 Write a short paragraph explaining what you learned or any issues you encountered.
 
-Write your answer here.
+I learned how to use Terraform to provision an Azure Virtual Machine and its supporting resources such as a Resource Group, Virtual Network, Subnet, Public IP, and Network Interface. I also learned the complete Terraform workflow: `init`, `plan`, `apply`, `output`, and `destroy`. One challenge was choosing a VM size and Ubuntu image that were available in my Azure region. This helped me understand how Infrastructure as Code makes cloud deployments repeatable, easier to manage, and safer to review before deployment.
 
 ---
 
@@ -116,13 +118,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: `terraform-azure-vm` project created with all required resources defined (Screenshots 1–2)
-- [ ] Task 2: `terraform init` completed successfully (Screenshot 3)
-- [ ] Task 3: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–6)
-- [ ] Task 4: VM verified as running via Azure CLI (Screenshot 7)
-- [ ] Task 5: `terraform destroy` completed successfully (Screenshot 8)
-- [ ] Learning/issues paragraph written (Notes)
-- [ ] No sensitive information exposed
+- [x] Task 1: `terraform-azure-vm` project created with all required resources defined (Screenshots 1–2)
+- [x] Task 2: `terraform init` completed successfully (Screenshot 3)
+- [x] Task 3: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–6)
+- [x] Task 4: VM verified as running via Azure CLI (Screenshot 7)
+- [x] Task 5: `terraform destroy` completed successfully (Screenshot 8)
+- [x] Learning/issues paragraph written (Notes)
+- [x] No sensitive information exposed
 
 ---
 
