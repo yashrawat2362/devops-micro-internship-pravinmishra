@@ -138,9 +138,9 @@ Week 06 → AWS Cloud
 | 07 | Azure Cloud | 🔄 In Progress | ⏳ Pending | [Week07-Post]() | [Week07-Blog]() |
 | 08 | Terraform | 🔄 In Progress | ⏳ Pending | [Week08-Post]() | [Week08-Blog]() |
 | 09 | Ansible | 🔄 In Progress | ⏳ Pending | [Week09-Post]() | [Week09-Blog]() |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
+| 10 | Azure DevOps (CI/CD) | 🔄 In Progress | ⏳ Pending | — | — |
+| 11 | Docker | 🔄 In Progress | ⏳ Pending | — | — |
+| 12 | Kubernetes | 🔄 In Progress | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
