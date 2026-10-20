@@ -1,6 +1,6 @@
 # Assignment 7 — A Claude That Remembers
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -91,11 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-07-memory.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7481454941941899265--863/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
-=======
-`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7481454941941899265--863/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-07-memory.md
 
 ---
 
@@ -103,11 +99,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-07-memory.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
-=======
-`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-07-memory.md
 
 ---
 
@@ -144,4 +136,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

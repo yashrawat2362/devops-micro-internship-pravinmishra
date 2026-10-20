@@ -1,6 +1,6 @@
 # Assignment 7 — AI-Assisted AWS Security and Cost Audit
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -310,12 +310,7 @@ Your submission must include:
 - Your Full Name visible in the required outputs
 - LinkedIn post URL
 - Screenshot of the published LinkedIn post
-
-Submit only a Google Doc link.
-
-Add the GitHub URL inside the Google Doc.
-
-Follow the Assignment Submission Guidelines.
+- GitHub repository URL (containing all assignment files)
 
 ---
 
@@ -342,11 +337,11 @@ Follow the Assignment Submission Guidelines.
 
 # Final Submission
 
-Submit only your Google Doc link.
+Submit your GitHub repository URL containing all assignment files, screenshots, reports, and output.
 
-### Question
+### GitHub Repository URL
 
-Based on the instructions and tasks above, submit your completed document with all required explanations, screenshots, reports, script file, skill file, and GitHub URL.
+Paste your GitHub repository URL here:
 
 `https://docs.google.com/document/d/1C5DvwvSVfiXiozDVvq2ap7Ke_kzmzrSGD7F2QuRxcok/edit?usp=sharing`
 
@@ -372,4 +367,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

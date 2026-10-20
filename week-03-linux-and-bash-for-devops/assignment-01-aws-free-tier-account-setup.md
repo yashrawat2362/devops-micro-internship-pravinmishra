@@ -1,6 +1,6 @@
 # Assignment 1 — AWS Free Tier Account Setup (EpicReads Cloud Onboarding)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -62,11 +62,26 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 ---
 
+# Task 4 — Share Your AWS Cloud Onboarding Progress
+
+## Goal
+
+Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence of the published status.
+
+### Evidence
+
+### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
+
+Add your screenshot here.
+
+---
+
 # Submission Instructions
 
 - Add all required screenshots in your GitHub repository submission
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
+- Share your AWS onboarding progress on WhatsApp Status (Task 4)
 
 ---
 
@@ -100,4 +115,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

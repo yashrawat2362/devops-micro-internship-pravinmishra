@@ -1,6 +1,6 @@
 # Assignment 1 — Create and Set Up Your Azure Free Account
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -10,21 +10,21 @@ In this assignment, you will set up a fully functional Microsoft Azure Free Acco
 
 ---
 
-# Task 1 — Create Your Azure Free Account
+# Task 1 — 4 Create and Set Up Your Azure Free Account
 
 ## Goal
 
-Sign up at the official Azure Free Account page, complete identity and phone verification, provide payment verification, and accept the Microsoft Agreement and Offer Terms.
+Complete the Azure Free Account registration process, including Microsoft account sign-in, personal details, identity and phone verification, payment verification, and acceptance of the required terms.
 
 > No screenshot required for this task. Do not capture payment-card details. Completion is verified through Task 2.
 
 ---
 
-# Task 2 — Access and Explore the Azure Portal
+# Task 5 — Access and Explore the Azure Portal
 
 ## Goal
 
-Sign in to the Azure Portal, locate key services (Resource Groups, Virtual Machines, Storage, App Services), and confirm the Free Trial subscription is shown under Subscriptions.
+Confirm successful Azure Portal access and Locate the required services and subscription.
 
 ### Evidence
 
@@ -48,6 +48,22 @@ Write a three-to-four-line paragraph explaining which Azure services you plan to
 - I want to understand how Azure organizes and manages cloud resources through Resource Groups.
 - Virtual Machines will help me practice deploying and managing servers, while Storage and App Services will introduce me to cloud storage and application deployment.
 - These services will give me a strong foundation for applying my DevOps skills in Azure.
+
+---
+
+# Share Your Progress on WhatsApp
+
+## Goal
+
+Share your Azure account setup achievement and DMI Leaderboard progress together in the same WhatsApp Status.
+
+### Evidence
+
+#### Screenshot 3 — Published WhatsApp Status showing your Azure account setup update, automatically generated DMI Leaderboard rank, and personal progress link
+
+Add your screenshot here.
+
+> **Privacy Note:** Do not include payment details, subscription IDs, private phone numbers, or other sensitive information.
 
 ---
 
@@ -89,4 +105,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

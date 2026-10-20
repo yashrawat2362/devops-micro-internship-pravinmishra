@@ -1,6 +1,6 @@
 # Assignment 2 — Deploy a React App on Ubuntu VM Using Nginx
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -142,11 +142,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Paste your LinkedIn post URL here:
 
-<<<<<<< HEAD:week-03-linux-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7482894246434267138-S-1T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
-=======
-`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-ugcPost-7482894246434267138-S-1T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
->>>>>>> upstream/main:week-03-linux-and-bash-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
 
 ---
 
@@ -200,4 +196,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

@@ -1,6 +1,6 @@
 # Assignment 8 — Week 2 Reflection Blog
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -54,11 +54,7 @@ You can publish your blog on:
 
 Blog Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c`
-=======
-`https://medium.com/@yashrawat2362/week-2-the-week-i-stopped-treating-ai-like-a-chatbot-7aa73974450c`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
 
 ---
 
@@ -67,28 +63,6 @@ Blog Link:
 ## Goal
 
 Share your Week 2 learning publicly on LinkedIn.
-
----
-
-### LinkedIn Post Requirements
-
-Your post must include:
-
-* One screenshot from any Week 2 assignment
-* Short reflection (what you learned or built)
-* Required P.S. line exactly as given below
-
----
-
-### Required P.S. Line (Must Include Exactly)
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
-
----
-
-### Suggested Hashtags
-
-#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ---
 
@@ -161,11 +135,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
-=======
-`https://www.linkedin.com/posts/yashrawat2362_dmibypravinmishra-agenticai-claudecode-activity-7481464850292895744-NO__?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkdLvUBSPhBiWFg4xDHAf9vp3Ws4aR12mQ`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
 
 ---
 
@@ -210,4 +180,6 @@ It helps learners build strong DevOps foundations through hands-on experience.
 * ▶️ YouTube Playlist: [https://www.youtube.com/playlist?list=PLFeSNDtI4Cho](https://www.youtube.com/playlist?list=PLFeSNDtI4Cho)
 * 🔗 Pravin Mishra (LinkedIn): [https://www.linkedin.com/in/pravin-mishra-aws-trainer/](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
 * 🏢 CloudAdvisory (LinkedIn): [https://www.linkedin.com/company/thecloudadvisory/](https://www.linkedin.com/company/thecloudadvisory/)
+---
 
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

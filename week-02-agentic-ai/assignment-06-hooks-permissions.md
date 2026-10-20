@@ -1,6 +1,6 @@
 # Assignment 6 — Safety Rails for Your AI Agent
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -128,12 +128,26 @@ Not Created `.claude/deploy.log` file
 
 ---
 
+# Task 9 — Share Your AI Safety Achievement
+
+## Goal
+
+Share how you built safety controls that prevent an AI agent from performing destructive actions.
+
+### Evidence
+
+#### Screenshot 10 — Published post on X or LinkedIn showing your AI safety achievement message and leaderboard progress link visible
+
+Add your screenshot here.
+
+---
+
 # Submission Instructions
 
 Complete all tasks in sequence.
 
 Your submission must include:
-- All 9 required screenshots
+- All 10 required screenshots
 
 ---
 
@@ -175,4 +189,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

@@ -1,6 +1,6 @@
 # Assignment 4 — Building Your AI Team
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) Cohort with Agentic AI
 
 ---
 
@@ -98,6 +98,31 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ---
 
+# Task 5 — Share Your AI Team Achievement on LinkedIn
+
+## Goal
+
+Share your AI subagents learning progress on LinkedIn and provide evidence of your published post.
+
+### LinkedIn Post
+
+Use the LinkedIn post template provided in the assignment guideline.
+
+Make sure your published post includes:
+
+- Your AI team achievement
+- The three specialized subagents you created
+- Your GitHub repository URL
+- Your DMI Leaderboard progress link
+
+### Evidence
+
+#### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
+
+Add your screenshot here.
+
+---
+
 # Submission Instructions
 
 - Ensure all agent files are committed in `.claude/agents/`
@@ -110,11 +135,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-04-subagents.md
 `https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
-=======
-`https://github.com/yashrawat2362/Ultimate-Agentic-DevOps-with-Claude-Code`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-04-subagents.md
 
 ---
 
@@ -130,6 +151,7 @@ Paste your forked repository URL here:
 - [x] Cost report is visible with recommendations
 - [x] All required screenshots added
 - [x] GitHub repo updated with agents
+
 
 ---
 
