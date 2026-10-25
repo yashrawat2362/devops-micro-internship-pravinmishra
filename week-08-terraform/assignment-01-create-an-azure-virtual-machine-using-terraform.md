@@ -20,19 +20,19 @@ Prepare your local environment for Terraform deployment by installing Terraform,
 
 #### Screenshot 1 — Terminal showing successful `terraform version` output
 
-Add your screenshot here.
+![terraform version](./screenshots/ss8.1.01.png)
 
 ---
 
 #### Screenshot 2 — Terminal showing successful `az version` output
 
-Add your screenshot here.
+![az version](./screenshots/ss8.1.02.png)
 
 ---
 
 #### Screenshot 3 — VS Code Extensions panel showing the HashiCorp Terraform extension installed and enabled
 
-Add your screenshot here.
+![HashiCorp Terraform extension installed](./screenshots/ss8.1.03.png)
 
 ---
 

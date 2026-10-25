@@ -24,7 +24,7 @@ Prepare your local environment for Terraform deployment by installing Terraform,
 
 Ensure that your full name is visible and that no AWS credentials, account IDs, or other sensitive information are exposed.
 
-Add your screenshot here.
+![ss-1](./screenshots/ss8.2.1.png)
 
 ---
 
